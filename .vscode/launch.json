@@ -15,5 +15,7 @@
       "autoStartBrowser": false,
       "program": "${workspaceFolder}/manage.py"
     }
-  ]
+  ],
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.indexing": true,
 }
